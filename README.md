@@ -196,5 +196,5 @@ This project is for educational and learning purposes.
 
 Sriram Ravichandran
 
-GitHub: [https://github.com/your-github-username](https://github.com/your-github-username)
-LinkedIn: [https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/your-linkedin-profile/)
+GitHub: [https://github.com/your-github-username](https://github.com/sriramravichandran)
+LinkedIn: [https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/sriram-ravichan/)
