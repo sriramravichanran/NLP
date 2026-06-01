@@ -20,7 +20,7 @@ The project demonstrates the complete NLP workflow including:
 
 * Python
 * Pandas
-* NumPy
+* NumPy  
 * Matplotlib
 * Seaborn
 * NLTK
