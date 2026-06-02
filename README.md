@@ -12,7 +12,7 @@ The project demonstrates the complete NLP workflow including:
 * TF-IDF vectorization
 * Logistic Regression model training
 * Sentiment prediction
-* Model evaluation  
+* Model evaluation    
 
 ---
 
