@@ -195,6 +195,3 @@ This project is for educational and learning purposes.
 # 👨‍💻 Author
 
 Sriram Ravichandran
-
-GitHub: [https://github.com/your-github-username](https://github.com/sriramravichandran)
-LinkedIn: [https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/sriram-ravichan/)
