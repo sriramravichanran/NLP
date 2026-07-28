@@ -7,7 +7,7 @@ The goal of this project is to classify movie reviews as either **Positive** or 
 
 The project demonstrates the complete NLP workflow including:
 
-* Text preprocessing 
+* Text preprocessing 2
 * Data cleaning
 * TF-IDF vectorization     
 * Logistic Regression model training   
