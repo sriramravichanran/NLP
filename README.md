@@ -14,7 +14,7 @@ The project demonstrates the complete NLP workflow including:
 * Sentiment prediction
 * Model evaluation    
 
----]
+---
       
 # 🚀 Technologies Used
 
